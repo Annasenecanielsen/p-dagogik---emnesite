@@ -1,0 +1,169 @@
+body {
+  background-color: rgba(146, 124, 109, 0.092);
+}
+nav ul {
+  color: black;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+}
+.forside_overskrift {
+  font-size: 270%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgba(84, 79, 79, 0.665);
+}
+.tekst_img {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.forside_to {
+  color: rgba(84, 79, 79, 0.665);
+  font-size: 270%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.sc_to {
+  color: rgb(46, 160, 26);
+  font-size: 240%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.sc_tre {
+  color: rgb(46, 160, 26);
+  font-size: 150%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.tekst_et {
+  font-size: x-large;
+  color: rgba(109, 95, 86, 0.826);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.6;
+}
+.tekst_to {
+  font-size: x-large;
+  color: rgb(187, 70, 132);
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.6;
+}
+.tekst_fire {
+  font-size: x-large;
+  color: rgba(109, 95, 86, 0.826);
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.6;
+}
+.tekst_forældre_nederst {
+  font-size: x-large;
+  color: rgba(109, 95, 86, 0.826);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.6;
+}
+.div_sec p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  line-height: 1.6;
+}
+.sc_to_to {
+  color: rgb(187, 70, 132);
+  font-size: 240%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.sc_to_tre {
+  color: rgb(122, 105, 207);
+  font-size: 240%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+
+.sc_to_fire {
+  color: rgb(202, 18, 27);
+  font-size: 240%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.sc_tre_to {
+  color: rgb(187, 70, 132);
+  font-size: 150%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.sc_tre_tre {
+  color: rgb(122, 105, 207);
+  font-size: 150%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+}
+.sc_tre_fire {
+  color: rgb(202, 18, 27);
+  font-size: 150%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 0.1rem;
+  margin-top: 0.1rem;
+  line-height: 1.6;
+}
+.div_sec_to p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  line-height: 1.6;
+}
+.billede_nord_tekst {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.6;
+}
+.nord {
+  font-size: 30px;
+  color: rgb(202, 18, 27);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.tekst_fire {
+  color: rgb(202, 18, 27);
+}
+.vidste_du {
+  font-size: x-large;
+  color: rgb(187, 70, 132);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.se_også {
+  font-size: x-large;
+  color: rgba(109, 95, 86, 0.826);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.tryghed_p {
+  font-size: x-large;
+  color: rgba(83, 36, 110, 0.934);
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.6;
+}
+.tryghed_ul {
+  font-size: x-large;
+  color: rgba(83, 36, 110, 0.934);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  list-style: none;
+  line-height: 1.6;
+}
+.sc_container_div_to p {
+  color: rgb(187, 70, 132);
+}
+.tekst_forældre {
+  font-size: x-large;
+  color: rgba(109, 95, 86, 0.826);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.6;
+}
+.tekst_forældre_nederst {
+  font-size: x-large;
+  color: rgba(109, 95, 86, 0.826);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 1.6;
+}
