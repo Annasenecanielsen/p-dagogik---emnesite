@@ -414,43 +414,6 @@ footer p {
 .sc_container_side_fire h4 {
   color: rgb(202, 18, 27);
 }
-.sec_nord {
-  flex-wrap: wrap;
-  object-fit: cover;
-  display: flex;
-  grid-template-columns: repeat(2, 1fr 1fr);
-  gap: 40px;
-  justify-content: center;
-}
-.sec_nord p {
-  font-size: 40px;
-  position: relative;
-}
-.div_nord {
-  position: relative;
-  display: inline-block;
-}
-.div_nord img {
-  display: block;
-  width: 450px;
-  height: 400px;
-  object-fit: cover;
-  margin-bottom: 3rem;
-}
-.billede_nord_tekst {
-  position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 40px;
-  padding: 0px;
-  text-align: center;
-}
-.nord {
-  text-align: center;
-  margin-top: 4rem;
-  margin-bottom: 0.1rem;
-}
 
 .to_cta {
   display: flex;
